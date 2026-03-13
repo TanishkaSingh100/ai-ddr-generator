@@ -22,4 +22,4 @@ Rules:
 - Do NOT invent facts
 - If information missing write "Not Available"
 - If conflict exists mention it
-- Use simple client-friendly language
+- Use simple client friendly language
