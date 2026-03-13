@@ -19,12 +19,12 @@ This project converts raw inspection reports and thermal imaging reports into a 
 1. Clone the repository
 2. Install dependencies
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Set API key
 
-export OPENROUTER_API_KEY = your key here
+   export OPENROUTER_API_KEY = your key here
 
 4. Run the app
 
-streamlit run app.py
+   streamlit run app.py
